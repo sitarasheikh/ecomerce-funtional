@@ -8,7 +8,7 @@ import HolyLoader from "holy-loader";
 import Providers from "./providers";
 
 export const metadata: Metadata = {
-  title: "SITARA FASHION",
+  title: "SITARA FASHION HOUSE",
   description: "WE CARE WHAT YOU WEAR",
 };
 
